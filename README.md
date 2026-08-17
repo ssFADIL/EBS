@@ -1,7 +1,7 @@
 ## WORKING WITH EBS
 
-### NAME: MOTTA KATTA MOUNIKA
-### REGISTER NO:212224040202
+### NAME: SYED FADIL S
+### REGISTER NO:212225040454
 ## AIM:
 
 In this lab environment, access to AWS services and service actions might be restricted to the ones that are needed to complete the lab instructions. You might encounter errors if you attempt to access other services or perform actions beyond the ones that are described in this lab.
@@ -13,3 +13,8 @@ In this lab environment, access to AWS services and service actions might be res
 *Create a snapshot of your volume
 *Create a new volume from your snapshot
 *Attach and mount the new volume to your EC2 instance
+
+## Illustration:
+
+# STEP 1:
+In this step, you will create and attach an Amazon EBS volume to a new Amazon EC2 instance.You will see an existing volume that is being used by the Amazon EC2 instance. This volume has a size of 8 GiB, which makes it easy to distinguish from the volume you will create next, which will be 1 GiB in size.
