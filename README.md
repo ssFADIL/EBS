@@ -33,3 +33,5 @@ In this step, you will create and attach an Amazon EBS volume to a new Amazon EC
 
 <img width="1907" height="894" alt="Screenshot 2026-08-17 145203" src="https://github.com/user-attachments/assets/6204af09-6973-4026-987f-221a356aab36" />
 
+## Result
+Thus, an Amazon EBS volume was successfully created and attached to an Amazon EC2 instance. The volume was formatted with an ext3 file system, mounted, and used for storing data. An EBS snapshot was successfully created as a backup, and a new EBS volume was restored from the snapshot. The previously deleted file.txt was successfully recovered, demonstrating the backup and restore functionality of Amazon EBS.
