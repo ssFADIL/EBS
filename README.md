@@ -28,4 +28,8 @@ In this step, you will create and attach an Amazon EBS volume to a new Amazon EC
 <img width="1899" height="759" alt="Screenshot 2026-08-17 143524" src="https://github.com/user-attachments/assets/7c584448-d9b7-474a-9700-a8cb503f5f8e" />
 
 
+<img width="1907" height="706" alt="Screenshot 2026-08-17 143542" src="https://github.com/user-attachments/assets/40ec280b-9b96-4224-9879-e1c898fe99ae" />
+
+
+<img width="1907" height="894" alt="Screenshot 2026-08-17 145203" src="https://github.com/user-attachments/assets/6204af09-6973-4026-987f-221a356aab36" />
 
